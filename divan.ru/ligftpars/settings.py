@@ -7,7 +7,7 @@
 #     https://docs.scrapy.org/en/latest/topics/downloader-middleware.html
 #     https://docs.scrapy.org/en/latest/topics/spider-middleware.html
 
-BOT_NAME = "ligftpars"
+BOT_NAME = "lightpars"
 
 SPIDER_MODULES = ["ligftpars.spiders"]
 NEWSPIDER_MODULE = "ligftpars.spiders"
